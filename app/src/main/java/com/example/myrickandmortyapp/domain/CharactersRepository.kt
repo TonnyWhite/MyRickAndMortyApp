@@ -1,4 +1,4 @@
-package com.example.myrickandmortyapp.data
+package com.example.myrickandmortyapp.domain
 
 import androidx.lifecycle.LiveData
 
